@@ -1,0 +1,90 @@
+
+body{
+    background-color: #DBF6E9;
+    font-family: 'Roboto', sans-serif;
+
+   margin: 0;
+   text-align: center;
+   
+}
+
+.Header1{
+    margin: 0;
+    padding-top: 100px;
+    font-family:'Sacramento',cursive;
+    font-size: 100px;
+
+}
+
+.Header2{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight:bolder
+
+}
+
+
+.top-container{
+    background-color: #DBF6E9;
+    width: auto;
+    height: 750px;
+}
+
+.Background{
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+    width: 800px;
+    
+}
+.middle-container{
+    
+    padding-top: 50px;
+    
+}
+
+
+.navbar{
+    background-color: #66BFBF;
+    width: auto;
+    height: 50px;
+}
+
+.logo{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    width: 40px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+}
+
+.coding{
+    clip-path: circle();
+    width: 300px;
+}
+
+.Netflix{
+    clip-path: circle();
+    width: 400px;
+    
+}
+
+.skills{
+    padding-top: 50px;
+}
+
+.skill-rowN{
+    padding-top: 50px;
+}
+
+.contact-me{
+    padding-top: 50px;
+}
